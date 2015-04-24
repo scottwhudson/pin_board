@@ -12,6 +12,7 @@ gem 'simple_form', '~> 3.0.2'
 gem 'rmagick', require: false
 gem 'turbolinks'
 gem 'paperclip', '~>4.2.1'
+gem 'masonry-rails', '~>0.2.4'
 gem 'jbuilder', '~> 2.0'
 gem 'devise', '~> 3.4.0'
 
